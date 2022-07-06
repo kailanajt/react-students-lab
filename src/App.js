@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h1>this thing on?</h1>
     </div>
-  );getSpaceUntilMaxLength;gc;sl
+  );
 }
 
 export default App;
